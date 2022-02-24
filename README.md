@@ -1,7 +1,7 @@
 ### Hi there, I'm Abhinav 👋
 
 
-- 🔭 I’m currently working on mobile developemnt with Flutter
+- 🔭 I’m currently working on mobile development with Flutter
 - 🌱 I’m currently learning Computer Science at Vellore Institute of Technology
 - 🤔 I’m looking for internships for Summer 2022
 - 📫 How to reach me: abhinav.shenoy00@gmail.com
