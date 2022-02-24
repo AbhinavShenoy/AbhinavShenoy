@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Computer Science at Vellore Institute of Technology
 - 🤔 I’m looking for internships for Summer 2022
 - 📫 How to reach me: abhinav.shenoy00@gmail.com
-- ⚡ What I like to do: I enjoy much reading, basketball and 3D art
+- ⚡ What I like to do: I enjoy reading, basketball and 3D art
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
