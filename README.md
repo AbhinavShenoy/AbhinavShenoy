@@ -1,9 +1,9 @@
 ### Hi there, I'm Abhinav 👋
 
 
-- 🔭 I’m currently working on mobile development with Flutter
+- 🔭 I’m currently working on developing scalable systems with node.js
 - 🌱 I’m currently learning Computer Science at Vellore Institute of Technology
-- 🤔 I’m looking for internships for Summer 2022
+- 🤔 I’m looking for internships of full-time offers.
 - 📫 How to reach me: abhinav.shenoy00@gmail.com
 - ⚡ What I like to do: I enjoy reading, basketball and 3D art
 
